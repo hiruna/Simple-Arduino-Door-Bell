@@ -30,3 +30,5 @@ Grab your Arduino R3 (or other) and set up the I/O pins according to my schemati
 ##### Schematic:
 
 
+![Simple-Arduino-Door-Bell-Schematic](https://raw.githubusercontent.com/hiruna/Simple-Arduino-Door-Bell/master/Schematic.png)
+
