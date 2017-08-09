@@ -1,9 +1,3 @@
-# Simple-Arduino-Door-Bell
-
-Instructions will be uploaded soon. Check out the model on thingyverse:https://www.thingiverse.com/thing:2469363
-
-
-
 # Simple Arduino Door Bell by hiruna
 
 This is a very basic Arduino based door bell using the tone() function to generate a specific tone. My code generates a shift from 2500Hz to 1000Hz square wave and loops it three times.
